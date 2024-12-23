@@ -6,5 +6,5 @@
 #### 3.Used library "Aos"
 #### Link download: https://www.npmjs.com/package/aos
 # Review Website
-#### Live Preview: react-website-portfolio-02.vercel.app
+#### Live Preview: [react-website-portfolio-02.vercel.app](https://react-website-portfolio-02.vercel.app/)
 
